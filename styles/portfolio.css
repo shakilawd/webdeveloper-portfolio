@@ -14,6 +14,7 @@ body{
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+       
 }
 
 .section-title{
@@ -75,7 +76,10 @@ nav a{
 
 .banner-content{
     max-width: 500px;
+    
 }
+
+
 .banner .profile-pic{
     width: 400px;
 }
